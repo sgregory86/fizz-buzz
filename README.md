@@ -20,9 +20,3 @@ Next, run this to install dependencies.
 Then to run PHPUnit, simply execute this in the root of the project.
 
     vendor\bin\phpunit
-
-## Creator
-
-**Steven Gregory**
-
-- <http://twitter.com/sgregory>
